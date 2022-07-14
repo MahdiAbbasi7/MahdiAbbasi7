@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mahdi-abbasi-a25212201">
+  <a href="https://www.linkedin.com/in/mahdi-abbasi-a25212201/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/themahdi.7">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode and Hungout with my friends.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mahdi-abbasi-a25212201)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mahdi-abbasi-a25212201)
   
 - :wolf: ask me about anything, if i know, answer you .
 

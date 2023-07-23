@@ -31,13 +31,10 @@ Here are some ideas to get you started:
 
 </div>
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="450" height="300">
-</div>
 
 ### :man_technologist: About Me :
 - :telescope: I’m studying as a bachlor of Computer Engineer in Shahed university of Iran and i am intersted to backend for building web applications.
@@ -65,8 +62,9 @@ Here are some ideas to get you started:
 </div>
 
 
+### 🐍: My Top Langs :
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahdiAbbasi7&theme=cobalt)](https://github.com/MahdiAbbasi7/github-readme-stats)
 
-### :fire: My Stats :
+### 🫀: My Favoriate Repo :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahdi&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MahdiAbbasi7&repo=Django-Quera-Bootcamp&theme=cobalt)](https://github.com/MahdiAbbasi7/Django-Quera-Bootcamp)

@@ -22,9 +22,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mahdi-abbasi-a25212201/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/themahdi.7">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>  
   <a href="https://t.me/@mhdiabasi2">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -43,7 +40,9 @@ Here are some ideas to get you started:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abbasi-a25212201)
   
-- 💻: ask me about computer, if i know, answer you .
+ #### 💻: My Crypto Wallets :
+- ◼️ : BTC : bc1qrvczt2elwlyu0s34jrcxf3qvwpjfeq03qcrl4j
+- ⬜ : ETH : 0xFfD8B3b58b7d89876a5A334d71999Af7771Fd526
   
 :hammer_and_wrench: Languages and Tools :
 <div>

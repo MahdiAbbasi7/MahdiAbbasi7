@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
   </a>
 
 
+</div>
 
 ### :man_technologist: About Me :
 - :telescope: I’m studying as a bachlor of Computer Engineer in Shahed university of Iran and i am intersted to backend for building web applications.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges" align="center">
-  <img src="https://github.com/MahdiAbbasi7/MahdiAbbasi7/assets/77788727/328bf437-d886-4304-a47a-e0254abe51b6" alt="Alt Text" width="500" height="450">
+  <img src="https://github.com/MahdiAbbasi7/MahdiAbbasi7/assets/77788727/328bf437-d886-4304-a47a-e0254abe51b6" alt="Alt Text" width="400" height="350">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahdi-abbasi-a25212201/">

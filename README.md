@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: I’m studying as a bachlor of Computer Engineer in Shahed university of Iran and i'm intersted to backend of web Apps.(prefer Django)
+- :telescope: I’m studying as a bachlor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies and i'm intersted to backend of web Apps.
 
-- :zap: Some time, I solve problems on Exercism and W3schools. Also currently interest AI, especially ML and NLP.
+- :zap: Also i learn new things about AI, ML, DL inside Omid robotics team and teach these things to others. Sometime, i solve problems on Exercism and W3schools.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abbasi-a25212201)
+- :mailbox:How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abbasi-a25212201)
   
  #### 💻: My Crypto Wallets :
 - ◼️ : BTC : bc1qrvczt2elwlyu0s34jrcxf3qvwpjfeq03qcrl4j

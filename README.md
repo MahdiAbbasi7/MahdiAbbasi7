@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
  #### 💻: My Crypto Wallets :
 - ◼️ : BTC : bc1qrvczt2elwlyu0s34jrcxf3qvwpjfeq03qcrl4j
-- ⬜ : ETH : 0xFfD8B3b58b7d89876a5A334d71999Af7771Fd52
+- ⬜ : ETH : 0xFfD8B3b58b7d89876a5A334d71999Af7771Fd526
   
 :hammer_and_wrench: Languages and Tools :
 <div>

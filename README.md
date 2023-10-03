@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-- :telescope: I’m studying as a bachlor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies and i'm intersted to backend of web Apps.
+- :telescope:I’m studying as a bachelor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies and I'm interested to back-end of web Apps.
 
 - :zap: Also i learn new things about AI, ML, DL inside Omid robotics team and teach these things to others. Sometime, i solve problems on Exercism and W3schools.
 

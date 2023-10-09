@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 </div>
 
 
-### 🐍: My Top Langs :
+### 🐍 My Top Langs 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahdiAbbasi7&theme=cobalt)](https://github.com/MahdiAbbasi7/github-readme-stats)
 
-### 🫀: My Favoriate Repo :
+### 🎚️ My Stats 
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MahdiAbbasi7&repo=Django-Quera-Bootcamp&theme=cobalt)](https://github.com/MahdiAbbasi7/Django-Quera-Bootcamp)
+![MahdiAbbasi7 github stats](https://github-readme-stats.vercel.app/api?username=MahdiAbbasi7&show_icons=true&hide_border=false&theme=cobalt)

@@ -33,10 +33,9 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-- :telescope:I’m studying as a bachelor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies and I'm interested to back-end of web Apps.
-
-- :zap: Also i learn new things about AI, ML, DL inside Omid robotics team and teach these things to others. Sometime, i solve problems on Exercism and W3schools.
-
+- :telescope: I’m studying as a bachelor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies, and I'm interested to back-end of web Apps.
+- :zap: Also, I learn new things about AI, ML, DL inside Omid robotics team and teach these things to others. Sometime, I solve problems on Exercism and Leet code.
+- 
 - :mailbox:How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abbasi-a25212201)
   

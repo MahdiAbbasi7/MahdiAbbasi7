@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 - :telescope: I’m studying as a bachelor of Computer Engineer I have been programming for almost more than 2 years and worked with many languages and technologies, and I'm interested to back-end of web Apps.
-- :zap: Also, I learn new things about AI, ML, DL inside Omid robotics team and teach these things to others. Sometime, I solve problems on Exercism and Leet code.
+- :zap: Certified Python developer with 2 years of experience in delivering complex projects on time. Interested in Python, Django, DRF, Linux, and DevOps tools. I have also improved operational efficiency by applying SOLID principles and best practices in software development.
 - 
 - :mailbox:How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Mahdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-abbasi-a25212201)
